@@ -35,7 +35,7 @@ That's it! You should now be able to view the portfolio website on your local ma
 
 ## Credits
 
-Created by [Your Name].
+Created by Shaswata Datta.
 
 🌟 Feel free to use this as a template for your own portfolio website.
 
